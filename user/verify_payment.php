@@ -15,7 +15,7 @@ curl_setopt_array($curl, [
     CURLOPT_URL => "https://api.paystack.co/transaction/verify/$ref",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_HTTPHEADER => [
-        "Authorization: Bearer sk_live_ed97e91b722a7d23ba19bdffa89d44ddb737ed5e", // ⚠️ Replace with your real key
+        "Authorization: Bearer sk_live_", // ⚠️ Replace with your real key
         "Content-Type: application/json"
     ]
 ]);
