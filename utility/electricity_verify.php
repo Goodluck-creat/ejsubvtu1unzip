@@ -73,7 +73,7 @@ function useTeetech($conn, $provider_name, $meter, $type, $amount, $ref) {
     // 🔍 Meter verification
     $verifyUrl = "https://teetechglobal.com/api/bill/bill-validation?meter_number={$meter}&disco={$teetechDiscoId}&meter_type={$type}";
     $headers = [
-        "Authorization: Token s472AeibdqBckxIblB6AhnCorAa5ymCB21Ct5CJ90p3AvBDw3G32x8BAxx6C1690281110"
+        "Authorization: Token "
     ];
 
     $verifyCurl = curl_init();
