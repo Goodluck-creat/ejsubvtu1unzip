@@ -57,7 +57,7 @@ if (isset($result['data']['status']) && $result['data']['status'] == 'success') 
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($payload));
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        "Authorization: Token 2115b86b629f8d59f0e3d813ba406ce4fba3f30ef753f86a31acd539bc21",
+        "Authorization: Token ",
         "Content-Type: application/json"
     ]);
 
