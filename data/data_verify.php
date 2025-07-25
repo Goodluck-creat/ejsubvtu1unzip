@@ -74,7 +74,7 @@ curl_setopt_array($curl, [
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_POST => true,
     CURLOPT_HTTPHEADER => [
-        "Authorization: Fq1vABC6tJ735CC20H63cwBbAE2B9mBkBzC5s4CA9Cx1drxpAACaoDhbx8lG1750622107",
+        "Authorization:",
         "Content-Type: application/json"
     ],
     CURLOPT_POSTFIELDS => $payload
