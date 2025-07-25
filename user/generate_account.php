@@ -48,7 +48,7 @@ $first_name = $nameParts[0];
 $last_name  = $nameParts[1] ?? $first_name;
 
 // Flutterwave API setup
-$secretKey = "FLWSECK-233b3ffd10f76922bc56b1522f8f243a-19791dbf855vt-X"; // ✅ Replace with your real secret key
+$secretKey = ""; // ✅ Replace with your real secret key
 
 $data = [
     "email"         => $email,
