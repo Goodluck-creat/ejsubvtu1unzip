@@ -37,7 +37,7 @@ $stmt->bind_param("isd", $uid, $tx_ref, $expected_amount);
 $stmt->execute();
 
 // 🔐 Your Flutterwave secret key
-$secretKey = 'FLWSECK-233b3ffd10f76922bc56b1522f8f243a-19791dbf855vt-X';
+$secretKey = '';
 
 // ✅ Prepare virtual account creation payload
 $data = [
