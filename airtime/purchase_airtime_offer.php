@@ -72,7 +72,7 @@ if (!$user || floatval($user['wallet_balance']) < $price) {
 }
 
 // Subvas API
-$api_token = "2115b86b629f8d59f0e3d813ba406ce4fba3f30ef753f86a31acd539bc21";
+$api_token = "";
 $payload = [
     "network"    => $network_code,
     "phone"      => $phone,
