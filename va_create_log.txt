@@ -1,0 +1,105 @@
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => WIMZ6730175070899915849975
+            [order_ref] => URF_1750708994519_2500835
+            [account_number] => 8636752120
+            [frequency] => N/A
+            [bank_name] => Sterling Bank
+            [created_at] => 2025-06-23 21:03:19
+            [expiry_date] => 2025-06-23 22:03:19
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 100.00
+        )
+
+)
+
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => UGBI8034175070930389449773
+            [order_ref] => URF_1750709299384_4554335
+            [account_number] => 8636482672
+            [frequency] => N/A
+            [bank_name] => Sterling Bank
+            [created_at] => 2025-06-23 21:08:24
+            [expiry_date] => 2025-06-23 22:08:23
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 100.00
+        )
+
+)
+
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => IBPW5744175070943899350015
+            [order_ref] => URF_1750709432233_1092435
+            [account_number] => 8636182269
+            [frequency] => N/A
+            [bank_name] => Sterling Bank
+            [created_at] => 2025-06-23 21:10:39
+            [expiry_date] => 2025-06-23 22:10:39
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 100.00
+        )
+
+)
+
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => NEDZ5183175076759386951910
+            [order_ref] => URF_1750767589251_2196835
+            [account_number] => 8636694050
+            [frequency] => N/A
+            [bank_name] => Sterling Bank
+            [created_at] => 2025-06-24 13:19:53
+            [expiry_date] => 2025-06-24 14:19:53
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 100.00
+        )
+
+)
+
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => GKTN4294175076952523552693
+            [order_ref] => URF_1750769518123_2950135
+            [account_number] => 8636575635
+            [frequency] => N/A
+            [bank_name] => Sterling Bank
+            [created_at] => 2025-06-24 13:52:05
+            [expiry_date] => 2025-06-24 14:52:05
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 100.00
+        )
+
+)
+

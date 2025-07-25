@@ -1,0 +1,12 @@
+HMAC received: 
+Calculated: 32a94a200ea19fc1b92a0fcd6f9c94e05612d591fb55890bffa87f73091a52ef7e80b175c82630204c71fc26376780f5ad999688ce7765a4c1d95e9ebd90f32e
+Payload: 
+
+HMAC received: 
+Calculated: 32a94a200ea19fc1b92a0fcd6f9c94e05612d591fb55890bffa87f73091a52ef7e80b175c82630204c71fc26376780f5ad999688ce7765a4c1d95e9ebd90f32e
+Payload: 
+
+HMAC received: c71010615a7b7ae512e6485d4fb4070e24210a1c862bcba9c888bdf0ca96cc8c9d62a57e4b97803291d1234eeaa375fa5a943ce2129dd31904f91bd08480af03
+Calculated: b5d52fd0e2415ab9b5313cf073dd8877250147c3ee80c3d22c3ff621d7176eab60213c0779c60176c5c663b93c437fbc94406564b79af3a6f3bea3a54636a418
+Payload: {"actually_paid":0,"actually_paid_at_fiat":0,"fee":{"currency":"bnbbsc","depositFee":0,"serviceFee":0,"withdrawalFee":0},"invoice_id":5932756042,"order_description":"Wallet funding for user ID 13","order_id":"vtu_6876c474896fd","outcome_amount":0.0072539,"outcome_currency":"bnbbsc","parent_payment_id":null,"pay_address":"3QLgmHUvWGrB9xrUjqbJo2ZHQjwhVXYRxg","pay_amount":0.00005598,"pay_currency":"btc","payin_extra_id":null,"payment_extra_ids":null,"payment_id":4715599343,"payment_status":"waiting","price_amount":10000,"price_currency":"ngn","purchase_id":"5180991810","updated_at":1752614066484}
+

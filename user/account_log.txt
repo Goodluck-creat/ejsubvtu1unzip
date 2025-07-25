@@ -1,0 +1,44 @@
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => JMXI8375175077480742153041
+            [order_ref] => URF_1750774802799_5465635
+            [account_number] => 8817096738
+            [account_status] => ACTIVE
+            [frequency] => N/A
+            [bank_name] => Sterling BANK
+            [created_at] => 2025-06-24 15:20:07
+            [expiry_date] => N/A
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 0.00
+        )
+
+)
+
+Array
+(
+    [status] => success
+    [message] => Virtual account created
+    [data] => Array
+        (
+            [response_code] => 02
+            [response_message] => Transaction in progress
+            [flw_ref] => TRNX4971175079106203854172
+            [order_ref] => URF_1750791057428_3750935
+            [account_number] => 8817237854
+            [account_status] => ACTIVE
+            [frequency] => N/A
+            [bank_name] => Sterling BANK
+            [created_at] => 2025-06-24 19:51:02
+            [expiry_date] => N/A
+            [note] => Please make a bank transfer to AnambraMart Enterprise FLW
+            [amount] => 0.00
+        )
+
+)
+

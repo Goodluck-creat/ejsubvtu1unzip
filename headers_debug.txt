@@ -1,0 +1,69 @@
+Array
+(
+    [Host] => vtu.chinovate.site
+    [Accept-Encoding] => gzip
+    [X-Forwarded-Proto] => https
+    [X-Real-IP] => 54.76.248.30
+    [X-Real-Port] => 15939
+    [X-Forwarded-For] => 54.76.248.30
+    [X-Forwarded-Port] => 443
+    [X-Port] => 443
+    [X-LSCACHE] => 1
+    [Content-Length] => 813
+    [verif-hash] => rechargehub_202507085857994daddychioma
+    [Accept] => application/json
+    [Content-Type] => application/json
+    [x-datadog-trace-id] => 4056829981581833911
+    [x-datadog-parent-id] => 4056829981581833911
+    [x-datadog-sampling-priority] => 0
+    [x-datadog-tags] => _dd.p.tid=6859bb2f00000000
+    [traceparent] => 00-6859bb2f00000000384cc15fce56f6b7-384cc15fce56f6b7-00
+    [tracestate] => dd=t.tid:6859bb2f00000000;t.dm:-1;s:0;p:384cc15fce56f6b7
+)
+
+Array
+(
+    [Host] => vtu.chinovate.site
+    [Accept-Encoding] => gzip
+    [X-Forwarded-Proto] => https
+    [X-Real-IP] => 34.251.99.7
+    [X-Real-Port] => 50034
+    [X-Forwarded-For] => 34.251.99.7
+    [X-Forwarded-Port] => 443
+    [X-Port] => 443
+    [X-LSCACHE] => 1
+    [Content-Length] => 820
+    [verif-hash] => rechargehub_202507085857994daddychioma
+    [Accept] => application/json
+    [Content-Type] => application/json
+    [x-datadog-trace-id] => 1306601581944293990
+    [x-datadog-parent-id] => 1306601581944293990
+    [x-datadog-sampling-priority] => 0
+    [x-datadog-tags] => _dd.p.tid=6859c46e00000000
+    [traceparent] => 00-6859c46e000000001221fb3752c0ca66-1221fb3752c0ca66-00
+    [tracestate] => dd=t.tid:6859c46e00000000;t.dm:-1;s:0;p:1221fb3752c0ca66
+)
+
+Array
+(
+    [Host] => vtu.chinovate.site
+    [Accept-Encoding] => gzip
+    [X-Forwarded-Proto] => https
+    [X-Real-IP] => 34.254.131.32
+    [X-Real-Port] => 15947
+    [X-Forwarded-For] => 34.254.131.32
+    [X-Forwarded-Port] => 443
+    [X-Port] => 443
+    [X-LSCACHE] => 1
+    [Content-Length] => 813
+    [verif-hash] => rechargehub_202507085857994daddychioma
+    [Accept] => application/json
+    [Content-Type] => application/json
+    [x-datadog-trace-id] => 5529343423281578764
+    [x-datadog-parent-id] => 7015702822756374356
+    [x-datadog-sampling-priority] => 2
+    [x-datadog-tags] => _dd.p.dm=-3,_dd.p.tid=685a986c00000000
+    [traceparent] => 00-685a986c000000004cbc2c8c39d7430c-615cc88be8195754-01
+    [tracestate] => dd=s:2;p:615cc88be8195754;t.dm:-3;t.tid:685a986c00000000
+)
+

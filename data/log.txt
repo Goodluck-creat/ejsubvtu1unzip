@@ -1,0 +1,30 @@
+[2025-06-28 20:11:20]  {"status":"success","Status":"successful"}
+[2025-06-28 20:53:43]  {"status":"success","Status":"successful"}
+[2025-06-28 21:03:38]  {"status":"success","Status":"successful"}
+[2025-06-28 21:03:38] Parsed status:  | Raw: 
+[2025-06-28 21:06:23]  {"status":"success","Status":"successful"}
+[2025-06-28 21:18:25]  {"status":"success","Status":"successful"}
+[2025-06-28 21:27:08]  {"status":"fail","Status":"failed","msg":"Unable To Complete Transaction: Please Report To Admin. Error Code BB."}
+[2025-06-28 21:27:08] Parsed status: fail | Raw: fail | Message: failed
+[2025-06-28 21:27:21]  {"status":"success","Status":"successful"}
+[2025-06-28 21:27:21] Parsed status: success | Raw: success | Message: successful
+[2025-06-28 21:35:46]  {"status":"success","Status":"successful"}
+[2025-06-28 21:35:46] Parsed status: success | Raw: success | Message: successful
+[2025-06-28 21:41:01] API Response:  {"status":"success","Status":"successful"}
+[2025-06-28 21:54:21] API Response:  {"status":"success","Status":"successful"}
+[2025-06-28 21:54:31] API Response:  {"status":"fail","msg":"Possible Transaction Duplicate, Please Verify Transaction & Try Again After 30 Seconds"}
+[2025-07-03 12:25:50] API Response:  {"status":"success","Status":"successful"}
+[2025-07-03 12:25:59] API Response:  {"status":"fail","msg":"Possible Transaction Duplicate, Please Verify Transaction & Try Again After 30 Seconds"}
+[2025-07-03 12:29:52] API Response:  {"status":"success","Status":"successful"}
+[2025-07-03 19:51:52] API Response:  {"status":"success","Status":"successful"}
+[2025-07-10 12:27:32] API Response:  {"status":"success","Status":"successful"}
+[2025-07-14 14:17:08] API Response:  {"status":"success","Status":"successful"}
+[2025-07-17 20:30:53] API Response:  {"status":"fail","Status":"failed","msg":"MTN Data purchase of 150MB TikTok Daily Plan [Social] [Gifting] to phone number 09031795616"}
+[2025-07-17 20:31:14] API Response:  {"status":"fail","Status":"failed","msg":"Phone Number ('.09031795616.') Duplicate transaction. Please try again after 1 minute"}
+[2025-07-17 20:31:49] API Response:  {"status":"success","Status":"successful"}
+[2025-07-17 20:44:57] API Response:  {"status":"success","Status":"successful"}
+[2025-07-22 11:47:14] API Response:  {"status":"success","Status":"successful"}
+[2025-07-22 12:40:30] API Response:  {"status":"fail","Status":"failed","msg":"Unable To Complete Transaction: Please Report To Admin. Error Code BB."}
+[2025-07-22 12:42:18] API Response:  {"status":"fail","Status":"failed","msg":"Unable To Complete Transaction: Please Report To Admin. Error Code BB."}
+[2025-07-22 12:46:13] API Response:  {"status":"fail","Status":"failed","msg":"Unable To Complete Transaction: Please Report To Admin. Error Code BB."}
+[2025-07-22 12:48:22] API Response:  {"status":"fail","Status":"failed","msg":"Unable To Complete Transaction: Please Report To Admin. Error Code BB."}

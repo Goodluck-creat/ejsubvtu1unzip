@@ -1,0 +1,616 @@
+RAW INPUT: {"event":"charge.completed","data":{"id":1826651719,"tx_ref":"vtu-685ab4129be0b","flw_ref":"090405250624180025643336350305","device_fingerprint":"N/A","amount":100,"currency":"NGN","charged_amount":100,"app_fee":2,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-24T17:00:31.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1826651719
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 090405250624180025643336350305
+            [device_fingerprint] => N/A
+            [amount] => 100
+            [currency] => NGN
+            [charged_amount] => 100
+            [app_fee] => 2
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-24T17:00:31.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1826652306,"tx_ref":"vtu-685ab4129be0b","flw_ref":"090405250624180126212161991829","device_fingerprint":"N/A","amount":100,"currency":"NGN","charged_amount":100,"app_fee":2,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-24T17:01:32.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1826652306
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 090405250624180126212161991829
+            [device_fingerprint] => N/A
+            [amount] => 100
+            [currency] => NGN
+            [charged_amount] => 100
+            [app_fee] => 2
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-24T17:01:32.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1826808220,"tx_ref":"vtu-685ab4129be0b","flw_ref":"090405250625004603233810675735","device_fingerprint":"N/A","amount":100,"currency":"NGN","charged_amount":100,"app_fee":2,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-24T23:46:08.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1826808220
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 090405250625004603233810675735
+            [device_fingerprint] => N/A
+            [amount] => 100
+            [currency] => NGN
+            [charged_amount] => 100
+            [app_fee] => 2
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-24T23:46:08.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1826821387,"tx_ref":"vtu-685ab4129be0b","flw_ref":"090405250625020003886953459568","device_fingerprint":"N/A","amount":100,"currency":"NGN","charged_amount":100,"app_fee":2,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-25T01:00:19.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1826821387
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 090405250625020003886953459568
+            [device_fingerprint] => N/A
+            [amount] => 100
+            [currency] => NGN
+            [charged_amount] => 100
+            [app_fee] => 2
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-25T01:00:19.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1826906220,"tx_ref":"vtu-685af3913a44c","flw_ref":"090405250624195246523795223058","device_fingerprint":"N/A","amount":100,"currency":"NGN","charged_amount":100,"app_fee":2,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.2.238","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-25T06:41:08.000Z","account_id":3121367,"customer":{"id":1185741094,"name":"ginika ginika","phone_number":"07087939024","email":"ejsubnaija@gmail.com","created_at":"2025-06-24T18:50:57.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1826906220
+            [tx_ref] => vtu-685af3913a44c
+            [flw_ref] => 090405250624195246523795223058
+            [device_fingerprint] => N/A
+            [amount] => 100
+            [currency] => NGN
+            [charged_amount] => 100
+            [app_fee] => 2
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.2.238
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-25T06:41:08.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185741094
+                    [name] => ginika ginika
+                    [phone_number] => 07087939024
+                    [email] => ejsubnaija@gmail.com
+                    [created_at] => 2025-06-24T18:50:57.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1826955145,"tx_ref":"vtu-685ab4129be0b","flw_ref":"090405250624170615701951202974","device_fingerprint":"N/A","amount":100,"currency":"NGN","charged_amount":100,"app_fee":2,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-25T08:03:47.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1826955145
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 090405250624170615701951202974
+            [device_fingerprint] => N/A
+            [amount] => 100
+            [currency] => NGN
+            [charged_amount] => 100
+            [app_fee] => 2
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-25T08:03:47.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1828865438,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250628130643714119701669","device_fingerprint":"N/A","amount":500,"currency":"NGN","charged_amount":500,"app_fee":10,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-28T13:06:51.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1828865438
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250628130643714119701669
+            [device_fingerprint] => N/A
+            [amount] => 500
+            [currency] => NGN
+            [charged_amount] => 500
+            [app_fee] => 10
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-28T13:06:51.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1829117544,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250628205143731557528835","device_fingerprint":"N/A","amount":500,"currency":"NGN","charged_amount":500,"app_fee":10,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-28T20:51:49.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1829117544
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250628205143731557528835
+            [device_fingerprint] => N/A
+            [amount] => 500
+            [currency] => NGN
+            [charged_amount] => 500
+            [app_fee] => 10
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-28T20:51:49.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1829138648,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250628213442314639532161","device_fingerprint":"N/A","amount":1000,"currency":"NGN","charged_amount":1000,"app_fee":20,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-06-28T21:34:48.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1829138648
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250628213442314639532161
+            [device_fingerprint] => N/A
+            [amount] => 1000
+            [currency] => NGN
+            [charged_amount] => 1000
+            [app_fee] => 20
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-06-28T21:34:48.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1832333574,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250703192614917806058314","device_fingerprint":"N/A","amount":1000,"currency":"NGN","charged_amount":1000,"app_fee":20,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-07-03T19:26:20.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1832333574
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250703192614917806058314
+            [device_fingerprint] => N/A
+            [amount] => 1000
+            [currency] => NGN
+            [charged_amount] => 1000
+            [app_fee] => 20
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-07-03T19:26:20.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1832334239,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250703192725996834736390","device_fingerprint":"N/A","amount":2000,"currency":"NGN","charged_amount":2000,"app_fee":40,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-07-03T19:27:30.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1832334239
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250703192725996834736390
+            [device_fingerprint] => N/A
+            [amount] => 2000
+            [currency] => NGN
+            [charged_amount] => 2000
+            [app_fee] => 40
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-07-03T19:27:30.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1834017321,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250706162242496662543807","device_fingerprint":"N/A","amount":1000,"currency":"NGN","charged_amount":1000,"app_fee":20,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-07-06T16:22:47.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1834017321
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250706162242496662543807
+            [device_fingerprint] => N/A
+            [amount] => 1000
+            [currency] => NGN
+            [charged_amount] => 1000
+            [app_fee] => 20
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-07-06T16:22:47.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1834032781,"tx_ref":"vtu-685ab4129be0b","flw_ref":"100033250706164925479875697593","device_fingerprint":"N/A","amount":500,"currency":"NGN","charged_amount":500,"app_fee":10,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-07-06T16:49:35.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"CHIOMA GOODLUCK NWIMO","bankname":"100033","originatoramount":"N/A","originatoraccountnumber":"903*******16"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1834032781
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 100033250706164925479875697593
+            [device_fingerprint] => N/A
+            [amount] => 500
+            [currency] => NGN
+            [charged_amount] => 500
+            [app_fee] => 10
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-07-06T16:49:35.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => CHIOMA GOODLUCK NWIMO
+            [bankname] => 100033
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 903*******16
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)
+RAW INPUT: {"event":"charge.completed","data":{"id":1834037287,"tx_ref":"vtu-685ab4129be0b","flw_ref":"090405250706175752670347986329","device_fingerprint":"N/A","amount":500,"currency":"NGN","charged_amount":500,"app_fee":10,"merchant_fee":0,"processor_response":"received successfully","auth_model":"AUTH","ip":"::ffff:172.16.60.88","narration":"AnambraMart Enterprise","status":"successful","payment_type":"bank_transfer","created_at":"2025-07-06T16:57:57.000Z","account_id":3121367,"customer":{"id":1185623506,"name":"Nwimo Chioma","phone_number":"09031795616","email":"nwimochioma15@gmail.com","created_at":"2025-06-24T14:20:02.000Z"}},"meta_data":{"originatorname":"ANAMBRAMART ENTERPRISE - Cchiommy","bankname":"090405","originatoramount":"N/A","originatoraccountnumber":"823*******39"},"event.type":"BANK_TRANSFER_TRANSACTION"}
+DECODED: Array
+(
+    [event] => charge.completed
+    [data] => Array
+        (
+            [id] => 1834037287
+            [tx_ref] => vtu-685ab4129be0b
+            [flw_ref] => 090405250706175752670347986329
+            [device_fingerprint] => N/A
+            [amount] => 500
+            [currency] => NGN
+            [charged_amount] => 500
+            [app_fee] => 10
+            [merchant_fee] => 0
+            [processor_response] => received successfully
+            [auth_model] => AUTH
+            [ip] => ::ffff:172.16.60.88
+            [narration] => AnambraMart Enterprise
+            [status] => successful
+            [payment_type] => bank_transfer
+            [created_at] => 2025-07-06T16:57:57.000Z
+            [account_id] => 3121367
+            [customer] => Array
+                (
+                    [id] => 1185623506
+                    [name] => Nwimo Chioma
+                    [phone_number] => 09031795616
+                    [email] => nwimochioma15@gmail.com
+                    [created_at] => 2025-06-24T14:20:02.000Z
+                )
+
+        )
+
+    [meta_data] => Array
+        (
+            [originatorname] => ANAMBRAMART ENTERPRISE - Cchiommy
+            [bankname] => 090405
+            [originatoramount] => N/A
+            [originatoraccountnumber] => 823*******39
+        )
+
+    [event.type] => BANK_TRANSFER_TRANSACTION
+)

@@ -1,0 +1,13 @@
+2025-06-26 09:18:17 | airtime_685d105682e78 | 09031795616 | {"network":"MTN","request-id":"airtime_685d105682e78","amount":100,"transid":"airtime_685d105682e78","discount":99,"status":"success","message":"successfully purchase MTN VTU to 09031795616 , \u20a6100","phone_number":"09031795616","oldbal":"102","newbal":3,"system":"API","plan_type":"VTU","wallet_vending":"wallet"}
+2025-06-26 09:18:17 | API FAIL | Ref: airtime_685d105682e78 | Phone: 09031795616 | Message: successfully purchase MTN VTU to 09031795616 , ₦100
+2025-06-26 09:27:56 | airtime_685d129a6222c | 09031795616 | {"network":"MTN","request-id":"airtime_685d129a6222c","amount":100,"transid":"airtime_685d129a6222c","discount":99,"status":"success","message":"successfully purchase MTN VTU to 09031795616 , \u20a6100","phone_number":"09031795616","oldbal":"903","newbal":804,"system":"API","plan_type":"VTU","wallet_vending":"wallet"}
+Parsed Status: success
+2025-06-26 09:40:33 | airtime_685d158f08c6f | 09031795616 | {"network":"MTN","request-id":"airtime_685d158f08c6f","amount":100,"transid":"airtime_685d158f08c6f","discount":99,"status":"success","message":"successfully purchase MTN VTU to 09031795616 , \u20a6100","phone_number":"09031795616","oldbal":"804","newbal":705,"system":"API","plan_type":"VTU","wallet_vending":"wallet"}
+Parsed Status: success
+2025-06-26 09:59:09 | airtime_685d19ecf23c8 | 07087939024 | {"status":"fail","message":"This is not a MTN Number => 07087939024"}
+Parsed Status: fail
+2025-06-26 09:59:09 | API FAIL | Ref: airtime_685d19ecf23c8 | Phone: 07087939024 | Message: This is not a MTN Number => 07087939024
+2025-06-26 10:18:24 | airtime_685d1e6e00c8e | 09032684897 | {"network":"MTN","request-id":"airtime_685d1e6e00c8e","amount":100,"transid":"airtime_685d1e6e00c8e","discount":99,"status":"success","message":"successfully purchase MTN VTU to 09032684897 , \u20a6100","phone_number":"09032684897","oldbal":"705","newbal":606,"system":"API","plan_type":"VTU","wallet_vending":"wallet"}
+Parsed Status: success
+2025-07-22 10:38:37 | airtime_687f6a2a8e052 | 07087939024 | {"network":"AIRTEL","request-id":"airtime_687f6a2a8e052","amount":100,"transid":"airtime_687f6a2a8e052","discount":99,"status":"success","message":"successfully purchase AIRTEL VTU to 07087939024 , \u20a6100","phone_number":"07087939024","oldbal":"556.5","newbal":457.5,"system":"API","plan_type":"VTU","wallet_vending":"wallet"}
+Parsed Status: success
