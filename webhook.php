@@ -2,7 +2,7 @@
 include("connection.php");
 
 // ✅ Add your secret hash from Flutterwave dashboard
-$secretHash = 'rechargehub_202507085857994daddychioma'; // 🔒 Replace with your actual secret hash
+$secretHash = ''; // 🔒 Replace with your actual secret hash
 
 // ✅ Check for correct method
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
