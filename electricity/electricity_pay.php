@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     curl_setopt($validate_ch, CURLOPT_URL, $validate_url);
     curl_setopt($validate_ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($validate_ch, CURLOPT_HTTPHEADER, [
-        "Authorization: Token s472AeibdqBckxIblB6AhnCorAa5ymCB21Ct5CJ90p3AvBDw3G32x8BAxx6C1690281110"
+        "Authorization: Token "
     ]);
     $validate_response = curl_exec($validate_ch);
     curl_close($validate_ch);
