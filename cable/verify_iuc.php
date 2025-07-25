@@ -8,7 +8,7 @@ $cable = $_GET['cable'] ?? '';
 $url = "https://teetechglobal.com/api/cable/cable-validation?iuc=$iuc&cable=$cable";
 
 $headers = [
-  "Authorization: Token s472AeibdqBckxIblB6AhnCorAa5ymCB21Ct5CJ90p3AvBDw3G32x8BAxx6C1690281110",
+  "Authorization: Token",
   "Content-Type: application/json"
 ];
 
