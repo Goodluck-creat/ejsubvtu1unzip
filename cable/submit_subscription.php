@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $request_id = "Cable_" . uniqid();
     $headers = [
-        "Authorization: Token s472AeibdqBckxIblB6AhnCorAa5ymCB21Ct5CJ90p3AvBDw3G32x8BAxx6C1690281110",
+        "Authorization: Token ",
         "Content-Type: application/json"
     ];
 
