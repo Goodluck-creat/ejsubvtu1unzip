@@ -1,5 +1,5 @@
 <?php
-$secret = "5DQNRWD-7744EW6-PECPTKE-CYT1SXZ"; // Your IPN secret
+$secret = ""; // Your IPN secret
 $hmac_header = $_SERVER['HTTP_X_NOWPAYMENTS_SIG'];
 $json = file_get_contents("php://input");
 $calculated_hmac = hash_hmac("sha512", $json, $secret);
